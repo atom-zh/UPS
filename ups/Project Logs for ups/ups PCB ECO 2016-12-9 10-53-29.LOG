@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetAC_2 Pin=R10-1
+Removed Pin From Net: NetName=NetAC_1 Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=NetBAT_2 Pin=R36-2
+Removed Member From Class: ClassName=ups Member=R10
+Removed Member From Class: ClassName=ups Member=R36
+Change Component Footprint: Designator=R17 Old Footprint=0805 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R21 Old Footprint=0805 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R24 Old Footprint=0805 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R25 Old Footprint=0805 New Footprint=AXIAL-0.4
+Added Room: Name=ups

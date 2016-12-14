@@ -1,0 +1,17 @@
+Change Component Footprint: Designator=C1 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C5 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C6 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C10 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C11 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C14 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C15 Old Footprint=0805 New Footprint=C-RAD
+Change Component Footprint: Designator=C7 Old Footprint=0805 New Footprint=C-RB-10
+Change Component Footprint: Designator=C4 Old Footprint=1206CC New Footprint=C-RB-10
+Change Component Footprint: Designator=C9 Old Footprint=1206CC New Footprint=C-RB-12
+Change Component Footprint: Designator=C12 Old Footprint=1206CC New Footprint=C-RB-12
+Change Component Footprint: Designator=C13 Old Footprint=1206CC New Footprint=C-RB-12
+Change Component Footprint: Designator=C16 Old Footprint=1206CC New Footprint=C-RB-12
+Change Component Footprint: Designator=C3 Old Footprint=1206CC New Footprint=C-RB-18
+Change Component Footprint: Designator=C8 Old Footprint=1206CC New Footprint=C-RB-18
+Added Room: Name=ups

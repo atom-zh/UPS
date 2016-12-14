@@ -1,0 +1,9 @@
+Added Component: Designator=RV1(AX-5P-9DX4.6T)
+Added Component: Designator=RV2(AX-5P-9DX4.6T)
+Added Pin To Net: NetName=NetAC_2 Pin=RV1-1
+Added Pin To Net: NetName=NetAC_1 Pin=RV1-2
+Added Pin To Net: NetName=NetBAT_2 Pin=RV2-1
+Added Pin To Net: NetName=GND Pin=RV2-2
+Added Member To Class: ClassName=ups Member=Component RV1 300KD07,§¶8¡Á3mm
+Added Member To Class: ClassName=ups Member=Component RV2 300KD07,§¶8¡Á3mm
+Added Room: Name=ups

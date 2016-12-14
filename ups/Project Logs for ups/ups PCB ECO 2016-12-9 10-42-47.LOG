@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R2 Old Footprint=0805 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=S2 Old Footprint=SPST-2 New Footprint=SW_4
+Added Room: Name=ups

@@ -1,0 +1,26 @@
+Change Component Library : Designator=Q4 Old Library=fszhang.SchLib New Library=Miscellaneous Devices.IntLib
+Change Component Library : Designator=Q10 Old Library=fszhang.SchLib New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=D8(DO-201AD)
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetC3_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R11-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R15-1
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=R16-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R17-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R21-2
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ10_2 Pin=Q10-2
+Added Pin To Net: NetName=NetQ10_2 Pin=Q11-3
+Added Pin To Net: NetName=NetQ10_2 Pin=R27-2
+Added Net: Name=NetQ10_2
+Added Pin To Net: NetName=NetQ10_3 Pin=Q10-3
+Added Pin To Net: NetName=NetQ10_3 Pin=R32-1
+Added Net: Name=NetQ10_3
+Added Member To Class: ClassName=ups Member=Component D8 SS34
+Added Room: Name=ups

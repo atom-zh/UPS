@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=Q5 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q6 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q7 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q8 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q9 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q11 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q12 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q13 Old Footprint=SOT-23 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q1 Old Footprint=TO-92 New Footprint=TO-92-3
+Change Component Footprint: Designator=Q2 Old Footprint=TO-92A New Footprint=TO-92-3
+Added Room: Name=ups

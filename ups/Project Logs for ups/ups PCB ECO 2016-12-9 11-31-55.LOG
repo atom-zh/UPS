@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=D4 Old Footprint=DIODE-0.4 New Footprint=DO-201AD
+Change Component Footprint: Designator=D5 Old Footprint=DIODE-0.7 New Footprint=DO-201AD
+Change Component Footprint: Designator=D3 Old Footprint=DIODE-AXL New Footprint=DO-201AD
+Change Component Footprint: Designator=D2 Old Footprint=DO-214AC New Footprint=DO-201AD
+Added Component: Designator=D1(DO-201AD)
+Added Component: Designator=D10(DO-201AD)
+Added Component: Designator=D11(DO-201AD)
+Added Component: Designator=D12(DO-201AD)
+Added Component: Designator=D13(DO-201AD)
+Added Component: Designator=D14(DO-201AD)
+Added Component: Designator=D15(DO-201AD)
+Added Pin To Net: NetName=13.8V Pin=D1-1
+Added Pin To Net: NetName=NetC4_1 Pin=D1-2
+Added Pin To Net: NetName=13.8V Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=13.8V Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=13.8V Pin=D15-1
+Added Pin To Net: NetName=VOUT Pin=D15-2
+Added Member To Class: ClassName=ups Member=Component D1 SS34
+Added Member To Class: ClassName=ups Member=Component D10 IN4007
+Added Member To Class: ClassName=ups Member=Component D11 IN4007
+Added Member To Class: ClassName=ups Member=Component D12 SS54
+Added Member To Class: ClassName=ups Member=Component D13 SS34
+Added Member To Class: ClassName=ups Member=Component D14 SS34
+Added Member To Class: ClassName=ups Member=Component D15 SS34
+Added Room: Name=ups

@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=R16 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Footprint: Designator=R21 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Footprint: Designator=R32 Old Footprint=AXIAL-0.4 New Footprint=AXIAL-1.0
+Change Component Footprint: Designator=LED2 Old Footprint=LED-0603 New Footprint=LED_A2
+Change Component Footprint: Designator=LED3 Old Footprint=LED-0603 New Footprint=LED_A2
+Added Component: Designator=D3(DIODE-AXL)
+Added Component: Designator=D4(DIODE-0.4)
+Added Component: Designator=D5(DIODE-0.7)
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D3-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetC3_1 Pin=D4-2
+Added Pin To Net: NetName=NetC1_1 Pin=D5-1
+Added Pin To Net: NetName=NetD3_1 Pin=D5-2
+Added Member To Class: ClassName=ups Member=Component D3 IN4007
+Added Member To Class: ClassName=ups Member=Component D4 IN4007
+Added Member To Class: ClassName=ups Member=Component D5 IN4007
+Added Room: Name=ups

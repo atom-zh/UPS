@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VOUT Pin=R28-2
+Removed Pin From Net: NetName=VOUT Pin=S2-2
+Removed Pin From Net: NetName=VOUT Pin=S2-2
+Change Component Comment : Designator=R28 Old Comment=5K¦¸ New Comment=4.7K¦¸
+Added Component: Designator=R36(AXIAL-0.4)
+Added Pin To Net: NetName=VOUT Pin=R36-2
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR28_2 Pin=R36-1
+Added Pin To Net: NetName=NetR28_2 Pin=S2-2
+Added Pin To Net: NetName=NetR28_2 Pin=S2-2
+Added Net: Name=NetR28_2
+Added Member To Class: ClassName=ups Member=Component R36 4.7K¦¸
+Added Room: Name=ups

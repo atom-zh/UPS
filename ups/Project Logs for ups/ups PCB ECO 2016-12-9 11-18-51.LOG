@@ -1,0 +1,5 @@
+Added Component: Designator=D6(DO-201AD)
+Added Pin To Net: NetName=NetC1_1 Pin=D6-1
+Added Pin To Net: NetName=NetD4_1 Pin=D6-2
+Added Member To Class: ClassName=ups Member=Component D6 IN4007
+Added Room: Name=ups

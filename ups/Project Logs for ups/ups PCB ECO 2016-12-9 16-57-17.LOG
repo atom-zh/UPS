@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=D7 Old DesignItemId=SMBJ New DesignItemId=Diode-Z
+Change Component Footprint: Designator=D7 Old Footprint=SMBJ New Footprint=DIODE-AXL
+Change Component Comment : Designator=D7 Old Comment=10V New Comment=Diode-Z
+Added Room: Name=ups

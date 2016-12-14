@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C12 Old Footprint=C-RB-10 New Footprint=C-RB-8
+Change Component Footprint: Designator=C8 Old Footprint=C-RB-18 New Footprint=C-RB-12
+Change Component Comment : Designator=C8 Old Comment=1000uF/20V New Comment=1000uF/25V
+Added Room: Name=ups

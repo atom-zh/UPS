@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C9 Old Footprint=C-RB-12 New Footprint=C-RB-10
+Change Component Footprint: Designator=C12 Old Footprint=C-RB-12 New Footprint=C-RB-10
+Change Component Footprint: Designator=C13 Old Footprint=C-RB-12 New Footprint=C-RB-10
+Change Component Footprint: Designator=C16 Old Footprint=C-RB-12 New Footprint=C-RB-10
+Added Room: Name=ups
